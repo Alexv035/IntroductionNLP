@@ -1,2 +1,0 @@
-# IntroductionNLP
-Introduction to NLP
